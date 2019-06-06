@@ -1,3 +1,23 @@
 .column{
 	height: 300px;
 }
+.header{
+	height: 50px;
+	border: 1px solid black;
+}
+.headerRow{
+	margin-left: 100px;
+}
+.headerCol{
+	margin-left: 30px;
+}
+.headerBtn{
+	margin-left: 200px;
+}
+.divimg{
+	background-image: url(image/background.jpg);
+	height: 200px;
+}
+.btn{
+	padding: 5px 30px;
+}
